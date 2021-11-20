@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+    font-family:sans-serif;
+    text-align: center;
+  }
+  
+  h3 {
+    padding-bottom: 30px;
+  }
+  
+  #img-div {
+    padding-bottom: 30px;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
+  
+  #img-caption{
+    text-align: center;
+    max-width:100%;
+    height: auto;
+  }
+  
+  p {
+    text-align: justify;
+  }
+  
+  #tribute-info {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+  }
+  footer {
+    margin-left: 50px;
+  }
+  
